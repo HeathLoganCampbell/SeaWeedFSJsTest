@@ -3,7 +3,7 @@
 3. Use the fileId (fid) to download `DummyFile.txt` from SeaWeedFS as `dummyreturned.txt`
 
 ### Run
-Download node.js and npm
-Change `server` in app.js
-execute `npm install` to install depencies
-execute `node app.js` to run
+* Download node.js and npm
+* Change `server` in app.js
+* Execute `npm install` to install depencies
+* Execute `node app.js` to run
