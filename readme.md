@@ -5,5 +5,5 @@
 ### Run
 * Download node.js and npm
 * Change `server` in app.js
-* Execute `npm install` to install depencies
+* Execute `npm install` to install dependencies
 * Execute `node app.js` to run
